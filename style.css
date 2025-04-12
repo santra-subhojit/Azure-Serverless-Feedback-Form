@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    text-align: center;
+  }
+  .container {
+    margin: 50px auto;
+    max-width: 400px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+  }
+  input, textarea {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  button {
+    background: #0078d4;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
